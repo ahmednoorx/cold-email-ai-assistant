@@ -1,0 +1,20 @@
+VERSION=2.2.0
+BUILD_DATE=2025-07-18
+PRODUCT=Cold Email Assistant Premium
+RELEASE_TYPE=VirtualEnv-Optimized
+
+🚀 VIRTUAL ENVIRONMENT UPDATE - Clean Package Management!
+
+✅ NEW IMPROVEMENTS:
+- Virtual Environment Setup (isolated Python environment)
+- Automatic Venv Creation and Activation
+- Proper Package Isolation (no conflicts with system Python)
+- Fallback to Global Installation if Venv Fails
+- Enhanced Batch File Reliability
+
+🎯 PREVIOUS FEATURES:
+- Smart Hardware Detection & Model Recommendations
+- 3 Generation Modes: Express (30-60s), Standard (1-2min), Premium (2-3min)
+- Real-time Progress with Time Estimates & Cancellation
+- Automatic Model Selection Based on System Performance
+- Enhanced Error Handling with Cleanup and Recovery

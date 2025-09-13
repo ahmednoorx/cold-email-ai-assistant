@@ -1,0 +1,28 @@
+# Ignore large model files
+models/*.gguf
+models/*.bin
+models/*.safetensors
+
+# Ignore virtual environment
+venv-portable/
+venv/
+env/
+
+# Ignore Python cache
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+
+# Ignore system files
+.DS_Store
+Thumbs.db
+
+# Ignore logs
+*.log
+logs/
+
+# Ignore temporary files
+*.tmp
+*.temp
