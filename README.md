@@ -210,4 +210,4 @@ This project demonstrates production-ready GenAI engineering with:
 
 ---
 
-*Built with Python, Streamlit, and Mistral 7B. Ready for production deployment.*
+*Built with Python, Streamlit, and Mistral 7B. Developed using modern AI-assisted development tools for rapid prototyping and implementation.*
